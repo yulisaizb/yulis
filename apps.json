@@ -27,15 +27,15 @@
     "url": "https://drive.google.com/file/d/1EyhRj1ZozYxQ_WStq6kti8CtYL6EZwLA/view?usp=drive_link"
   },
   {
-    "nombreapp": "Semáforo Interactivo",
+    "nombreapp": "Arból Interactivo",
     "descripcion": "Simula un semáforo en HTML, CSS y JavaScript. Modo manual y automático.",
     "icono": "https://cdn-icons-png.flaticon.com/512/3267/3267422.png",
     "grupo": "martes",
-    "fecha": "2024-11-15",
+    "fecha": "2026-10-02",
     "id": 1,
     "integrantes": [
-      "Santiago Castellanos",
-      "Angie Rincon"
+      "yuli saiz",
+      "yadi saiz"
     ],
     "actividad": "Primera Clase",
     "url": "https://santiago1902200.github.io/Semaforo/"
